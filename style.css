@@ -1,0 +1,14 @@
+body{
+    background-color: bisque;
+    font-size: 16px;
+    color: black;
+}
+.intro{
+     width: 200px;
+  margin: 15px;
+  padding: 20px;
+  border: 2px solid #333;
+  background-color: lightblue;
+  display: inline-block;
+  align-self: center;
+}
